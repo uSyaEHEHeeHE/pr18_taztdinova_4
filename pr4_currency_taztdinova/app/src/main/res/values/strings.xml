@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Дневник валют</string>
+    <string name="hello">Дневник валют</string>
+    <string name="hint_name">Имя пользователя</string>
+    <string name="hint_pass">Пароль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="empty_fields">Заполните все поля</string>
+    <string name="wrong_pass">Неверный пароль</string>
+    <string name="new_record">Новая запись</string>
+    <string name="account">Пользователь: %s</string>
+    <string name="currency">Валюта:</string>
+    <string name="hint_rate">Курс в рублях</string>
+    <string name="hint_date">Дата (дд.мм.гггг)</string>
+    <string name="btn_add">Добавить</string>
+    <string name="btn_diary">Дневник</string>
+    <string name="added">Запись добавлена</string>
+    <string name="wrong_rate">Курс должен быть числом</string>
+    <string name="diary">Мой дневник</string>
+    <string name="no_records">Записей пока нет</string>
+    <string name="btn_back">Назад</string>
+</resources>
